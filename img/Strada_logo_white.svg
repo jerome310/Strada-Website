@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="37px" viewBox="0 0 90 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav/dark/home" transform="translate(-9.000000, 1.000000)">
+            <g id="logo" transform="translate(3.000000, 1.000000)">
+                <text id="Strada" font-family="RobotoSlab-Regular, Roboto Slab" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="47" y="23">Strada</tspan>
+                </text>
+                <g id="tiny-logo" transform="translate(21.000000, 16.500000) rotate(90.000000) translate(-21.000000, -16.500000) translate(5.000000, -4.000000)">
+                    <text id="S" font-family="Arial-BoldMT, Arial" font-size="36" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="4" y="33">S</tspan>
+                    </text>
+                    <line x1="31.5" y1="32.5" x2="0.5" y2="32.5" id="Line" stroke="#8F00FF" stroke-width="5" stroke-linecap="square"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
